@@ -1,0 +1,36 @@
+﻿GIẤY PHÉP CÔNG NGHỆ RESPTECH™ 1.0
+(TIẾNG VIỆT)
+
+Tên tệp tin: RTTL1.0_vi_VN.txt
+Phiên bản 1.0. Ngày 28/05/2018
+
+Tên tác giả phiên bản Tiếng Việt 1.0: Nguyễn Nhật Minh
+Bản quyền thuộc về dự án Respectful Technologies™ (RespTech™) và 42™ Team
+
+
+CHO PHÉP các hoạt động sao chép, sử dụng và in giấy phép này với mục đích tham khảo
+NGHIÊM CẤM TUYỆT ĐỐI các hành vi tự ý sửa đổi trái phép khi chưa có sự cho phép của các tác giả và 42™ Team
+
+Giấy phép Công nghệ RespTech™ được sử dụng nhằm mục đích khuyến khích các cá nhân, đơn vị, công ty, tổ chức phát triển các sản phẩm công nghệ như phần mềm ứng dụng, thiết bị điện tử,… Và đồng thời tôn trọng các quyền riêng tư, tự do của người sử dụng; không làm ảnh hưởng đến hoạt động làm việc, sinh hoạt cá nhân, đời sống riêng tư của người sử dụng.
+
+A. CÁC KHÁI NIỆM CÓ TRONG VĂN BẢN NÀY
+B. QUYỀN HẠN NHÀ PHÁT TRIỂN
+Các nhà phát triển có quyền được nghiên cứu, phát triển, sản xuất và hoàn thiện sản phẩm công nghệ của mình sao cho đáp ứng tốt các nhu cầu làm việc, sinh hoạt và đời sống của người sử dụng, tránh các sai sót không mong muốn, gây ảnh hưởng lớn đến lợi ích người sử dụng. Các nhà phát triển có quyền được cập nhật, phát triển và hoàn thiện thêm các tính năng mới vào các sản phẩm công nghệ của mình nhằm sửa chữa các sai sót, hỏng hóc của sản phẩm công nghệ, cải tiến để phù hợp hơn với nhu cầu của người sử dụng.
+Các nhà phát triển có quyền được tố cáo những cá nhân, nhà phát triển khác có hành vi sao chép các ý tưởng, tính năng; vi phạm bản quyền sản phẩm công nghệ của mình; có các hành vi can thiệp và chỉnh sửa bất hợp pháp vào sản phẩm công nghệ của mình.
+Các sản phẩm của các nhà phát triển được phép truy cập, can thiệp, theo dõi, sửa đổi các dữ liệu cá nhân của người dùng bao gồm các thư mục, tệp tin được lưu trữ trên thiết bị nhớ vật lý và lưu trữ trực tuyến như trên các mạng xã hội, dịch vụ lưu trữ trực tuyến, các mục đính kèm trong các thư điện tử, tin nhắn trực tuyến với mục đích xử lý, thực hiện các thao tác đã yêu cầu của người sử dụng.
+Đối với các phần mềm, các nhà phát triển được quyền công khai mã nguồn của phần mềm đối với phần mềm mã nguồn mở và được quyền bảo vệ, lưu trữ kín đáo mã nguồn của phần mềm đối với phần mềm mã nguồn đóng.
+Các nhà phát triển được thu thập các thông tin, dữ liệu cần thiết của người sử dụng nhằm mục đích cải thiện các tính năng, phát hiện các sai sót, tùy biến công nghệ để phù hợp hơn với từng đối tượng sử dụng riêng biệt.
+Các nhà phát triển có quyền được sử dụng sản phẩm của mình với mục đích thương mại, kinh doanh lấy lợi nhuận. Các nhà phát triển có quyền được lưu trữ, can thiệp và sửa đổi  các thông tin đăng ký bản quyền của người sử dụng.
+C. QUYỀN HẠN NGƯỜI SỬ DỤNG 
+Người sử dụng được quyền sử dụng, điều hành, quản lý sản phẩm công nghệ mà nhà phát triển đã cung cấp cho mình. Người sử dụng được quyền sử dụng hết các tính năng mà nhà phát triển cung cấp cho mình; được quyền hiệu chỉnh các cài đặt tính năng của sản phẩm công nghệ sao cho phù hợp với nhu cầu và mục đích sử dụng của chính mình.
+Người sử dụng được quyền phản ánh, liên hệ đến với nhà phát triển về những điểm chưa phù hợp của sản phẩm công nghệ, những sai sót của sản phẩm công nghệ trong quá trình vận hành, những tính năng, bổ sung thêm cho sản phẩm công nghệ, giúp nhà phát triển có thể hoàn thiện thêm sản phẩm của mình.
+Người sử dụng có quyền được kiểm soát, đọc và sửa đổi các thông tin, dữ liệu cá nhân của mình khi nhập liệu, cung cấp cho các sản phẩm công nghệ để thực hiện các thao tác xử lý nhằm thực hiện mục đích sử dụng của mình. Người sử dụng có quyền được kiểm soát, từ chối các quyền truy cập, truy cập, can thiệp, theo dõi, sửa đổi các dữ liệu cá nhân của mình trên các thiết bị lưu trữ vật lý và lưu trữ trực tuyến như trên các mạng xã hội, dịch vụ lưu trữ trực tuyến, các mục đính kèm trong các thư điện tử, tin nhắn trực tuyến,… 
+Người sử dụng có quyền được kiểm soát, đọc, sửa đổi và xóa các thông tin, dữ liệu của mình được thu thập bởi nhà phát triển dưới mọi hình thức, phục vụ mọi mục đích. Người sử dụng có quyền được từ chối, chấm dứt các hoạt động thu thập dữ liệu người dùng dưới mọi hình thức, phục vụ mọi mục đích của nhà phát triển.
+D. TRÁCH NHIỆM CỦA NHÀ PHÁT TRIỂN
+Nhà phát triển có trách nhiệm cung cấp sản phẩm công nghệ hoạt động ổn định, hạn chế các lỗi, sai sót ảnh hưởng lớn đến lợi ích người sử dụng. Nhà phát triển có trách nhiệm cung cấp phần mềm cho người dùng bằng các phương thức tiện lợi và an toàn đến người sử dụng. Nhà phát triển phải có trách nhiệm cung cấp cho người sử dụng đúng phiên bản của sản phẩm với các tính năng, tiện ích đã được công bố cho người sử dụng.
+Nhà phát triển phải có trách nhiệm sửa chữa các lỗi, sai sót của phần mềm khi được phát hiện hoặc được phản ánh từ phía người sử dụng để tránh dẫn đến những hậu quả không mong muốn. Nhà phát triển cũng có trách nhiệm đưa ra và cung cấp các bản cập nhật đã sửa các lỗi, sai sót của sản phẩm công nghệ.
+Nhà phát triển có trách nhiệm tự bảo vệ quyền lợi hợp pháp của mình đối với sản phẩm công nghệ của chính mình, ngăn chặn các hành vi sao chép các ý tưởng, tính năng; vi phạm bản quyền. Nhà phát triển có trách nhiệm tự bảo mật mã nguồn của phần mềm mã nguồn đóng của mình, ngăn chặn cách hoạt động can thiệp vào mã nguồn phần mềm trái phép khi chưa có sự đồng ý.
+Nhà phát triển phải có trách nhiệm không được sao chép ý tưởng, tính năng; vi phạm bản quyền của các sản phẩm công nghệ từ các nhà phát triển khác.
+Nhà phát triển có trách nhiệm sử dụng thông tin, dữ liệu cá nhân của người sử dụng vào đúng mục đích như cải thiện hiệu suất, bổ sung tính năng hay tùy biến sản phẩm sao cho phù hợp với từng đối tượng người dùng. Nhà phát triển phải có trách nhiệm lưu trữ kín đáo và bảo mật thông tin và dữ liệu cá nhân của người sử dụng, đặc biệt là các thông tin nhạy cảm của người sử dụng.
+E. TRÁCH NHIỆM NGƯỜI SỬ DỤNG
+
