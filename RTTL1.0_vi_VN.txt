@@ -5,13 +5,13 @@ Tên tệp tin: RTTL1.0_vi_VN.txt
 Phiên bản 1.0. Ngày 28/05/2018
 
 Tên tác giả phiên bản Tiếng Việt 1.0: Nguyễn Nhật Minh
-Bản quyền thuộc về dự án Respectful Technologies™ (RespTech™) và 42™ Team
+Bản quyền thuộc về dự án Respectful Technologies™ (RespTech™) và nhóm 42tm
 
 
 CHO PHÉP các hoạt động sao chép, sử dụng và in giấy phép này
 với mục đích tham khảo.
 NGHIÊM CẤM TUYỆT ĐỐI các hành vi tự ý sửa đổi trái phép
-khi chưa có sự cho phép của các tác giả và 42 Team
+khi chưa có sự cho phép của các tác giả và nhóm 42tm
 
 Giấy phép Công nghệ RespTech™ được sử dụng nhằm mục đích khuyến khích các cá
 nhân, đơn vị, công ty, tổ chức phát triển các sản phẩm công nghệ như phần mềm
