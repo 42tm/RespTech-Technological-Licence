@@ -2,9 +2,9 @@ GIẤY PHÉP CÔNG NGHỆ RESPTECH™ 1.0
 (TIẾNG VIỆT)
 
 Tên tệp tin: RTTL1.0_vi_VN.txt
-Phiên bản 1.0. Ngày 28/05/2018
+Phiên bản 1.0. Ngày 31/05/2018
 
-Tên tác giả phiên bản Tiếng Việt 1.0: Nguyễn Nhật Minh
+Tên tác giả phiên bản Tiếng Việt 1.0: Nguyễn Nhật Minh, Nguyễn Tuấn Dũng
 Bản quyền thuộc về dự án Respectful Technologies™ (RespTech™) và nhóm 42tm
 
 
@@ -111,3 +111,10 @@ sử dụng, đặc biệt là các thông tin nhạy cảm của người sử 
 
 
 E. TRÁCH NHIỆM NGƯỜI SỬ DỤNG
+Người sử dụng có trách nhiệm đọc, hiểu biết và nắm rõ quyền hạn của mình được
+ghi rõ trong mục C của Giấy phép này.
+
+Người sử dụng phải có trách nhiệm với mục đích người sử dụng hướng tới khi
+sử dụng, điều hành, quản lý sản phẩm công nghệ mà nhà phát triển đã cung cấp
+cho mình. Những phát sinh gây ra ngoài mong muốn do mục đích của người sử dụng
+sẽ không được nhà phát triển chịu trách nhiệm.
