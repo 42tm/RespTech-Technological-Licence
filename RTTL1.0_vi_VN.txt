@@ -118,3 +118,9 @@ Người sử dụng phải có trách nhiệm với mục đích người sử 
 sử dụng, điều hành, quản lý sản phẩm công nghệ mà nhà phát triển đã cung cấp
 cho mình. Những phát sinh gây ra ngoài mong muốn do mục đích của người sử dụng
 sẽ không được nhà phát triển chịu trách nhiệm.
+
+Người sử dụng có trách nhiệm tự bảo vệ quyền lợi hợp pháp của mình, kiểm soát
+thông tin, dữ liệu cá nhân của mình khi cung cấp cho nhà phát triển.
+Nhà phát triển sẽ không chịu trách nhiệm cho mọi trường hợp nhà phát triển sử dụng 
+thông tin và dữ liệu cá nhân do người sử dụng cung cấp đúng theo mục đích của
+nhà phát triển.
