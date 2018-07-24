@@ -21,7 +21,7 @@ TERMS AND CONDITIONS
 0. Definitions
 
     1. "This license" means the terms and conditions described from section 1 to
-    section 6 of this document.
+    section 7 of this document.
 
     2. "Wallpaper" means a form of visual art that is intended to be set as
     background on any digital device that supports background image (e.g. phone,
@@ -33,6 +33,9 @@ TERMS AND CONDITIONS
     3. "Background" has the same meaning as "Wallpaper", defined above.
 
     4. "User" means any person who wish to use the provided Wallpaper.
+
+    5. "Provider" means any individuals or group of individuals who provide any
+    wallpaper licensed under the RespTech Wallpaper Public License.
 
     5. "Digital device" means any digital device that can have wallpaper. A
     digital device may have many wallpapers set for different place (e.g. the
@@ -73,7 +76,7 @@ TERMS AND CONDITIONS
     redistributing the original wallpaper to the public, the name of the
     author(s) and a link to a full copy of this license must be specified.
 
-4. REDISTRIBUTING THE MODIFIED WALLPAPER
+4. MODIFIED WALLPAPER
 
     Modified version of a wallpaper licensed under this license can be trade
     secret or licensed under a public license, as described in section 2 above.
@@ -108,7 +111,12 @@ TERMS AND CONDITIONS
     source code available publicly as well so people can easily modify the
     wallpaper.
 
-7. HOW TO APPLY THIS LICENSE TO YOUR WALLPAPER
+7. LIMITATIONS
+
+    No liability and warranty are held concerning the wallpaper. If claimed by
+    the provider, the wallpaper must be provided as-is.
+
+8. HOW TO APPLY THIS LICENSE TO YOUR WALLPAPER
 
     If you wish to use license your wallpaper under the RespTech Wallpaper
     Public License, chances are your wallpaper is in digital form (e.g. raster
