@@ -19,4 +19,4 @@ Summary Table
 
 |Permissions|Limitations|Conditions|
 |---|---|---|
-|<ul><li>Use in commercial</li><li>Use in private setting</li><li>Modify</li><li>Distribute & Redistribute</li></ul>|<ul><li>Warranty</li><li>Liability</li></ul>|<ul><li>Modified work must be either kept secret or licensed under a public license</li><li>Author(s)' name(s) and a link to a copy of this license must be provided along with any redistribution of the original work.</li></ul>|
+|<br/><ul><li>Use in commercial</li><li>Use in private setting</li><li>Modify</li><li>Distribute & Redistribute</li></ul>|<ul><li>Warranty</li><li>Liability</li></ul>|<ul><li>Modified work must be either kept secret<br>or licensed under a public license</li><li>Author(s)' name(s) and a link to a copy<br>of this license must be provided along with any<br>redistribution of the original work.</li></ul>|
