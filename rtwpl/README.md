@@ -27,11 +27,13 @@ Details
 - **Full name**: RespTech Wallpaper Public License
 - **Acronym**: RTWPL
 - **Latest version**: N/A, because the license has not been officially published
-- **Original author**: [Nguyen Hoang Duong](http://github.com/NOVAglow)
-- **Publisher** (expected): [42tm](http://github.com/42tm)
-- **Contributors**: None
 - **License type**: Public copyright license
-- **License started being written**: 24 July 2018
-- **Published date**: The license has not been published yet
+- **First published**: The license has not been published any time yet
 - **Targeted work**: Wallpapers
-- **State**: In review
+
+|Version|Short identifier|Status|Author|Publisher|Contributors|Started|Published|
+|:---:|:---:|:---:|:---:|:---:|---|:---:|:---:|
+|1.0|RTWPL-1.0|In review|[Nguyen Hoang Duong][nhd gh]|(expected) [42tm][42tm r]||24 July 2018||
+
+[nhd gh]: http://github.com/NOVAglow
+[42tm r]: http://github.com/42tm
