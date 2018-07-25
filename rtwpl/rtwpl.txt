@@ -23,34 +23,50 @@ TERMS AND CONDITIONS
     1. "This license" means the terms and conditions described from section 1 to
     section 7 of this document.
 
-    2. "Wallpaper" means a form of visual art that is intended to be set as
+    2. "RTWPL" is the acronym for "RespTech Wallpaper Public License", which has
+    the same definition as "this license" (above).
+
+    3. "RTWPL-licensed" means (something) licensed under the RespTech Wallpaper
+    Public License.
+
+    4. "Wallpaper" means a form of visual art that is intended to be set as
     background on any digital device that supports background image (e.g. phone,
     tablet, PC,...). Wallpaper, in this context, can be of any type, as long as
-    the device supports it (usually raster graphic). In this license, most usage
-    of the term "wallpaper" refer to the wallpaper that is licensed under this
-    license.
+    the device supports it (usually raster graphic).
 
-    3. "Background" has the same meaning as "Wallpaper", defined above.
+    5. "Background" has the same meaning as "Wallpaper", defined above.
 
-    4. "User" means any person who wish to use the provided Wallpaper.
+    6. "User" means any person who wish to use or is using the provided
+    RTWPL-licensed Wallpaper.
 
-    5. "Provider" means any individuals or group of individuals who provide any
-    wallpaper licensed under the RespTech Wallpaper Public License.
+    7. "Author" means the author of the wallpaper, which might be an individual
+    or a group of individuals. We define "author" as such to avoid having to
+    write something like "author(s)" which can break the flow of the license
+    text.
 
-    5. "Digital device" means any digital device that can have wallpaper. A
+    8. "Provider" means any individual or group of individuals who provide any
+    RTWPL-licensed work.
+
+    9. "Digital device" means any digital device that can have wallpaper. A
     digital device may have many wallpapers set for different place (e.g. the
-    iPhone has wallpaper for lock screen and has another wallpaper for home
-    screen.).
+    iPhone has wallpaper for the lock screen and has another wallpaper for the
+    home screen.).
 
-    6. To use the wallpaper means to set the wallpaper as wallpaper on the
+    10. "Original wallpaper" means the wallpaper that someone else copied and
+    modified the copy.
+
+    11. "Modified wallpaper" means the wallpaper that is essentially a modified
+    version of another wallpaper (i.e. the original wallpaper).
+
+    12. To use the wallpaper means to set the wallpaper as wallpaper on the
     digital device.
 
-    7. To modify the wallpaper means to edit the content of the wallpaper,
-    all more specifically, making the wallpaper visually different from the
+    13. To modify the wallpaper means to edit the content of the wallpaper,
+    or more specifically, making the wallpaper visually different from the
     original wallpaper.
 
-    8. To redistribute the wallpaper means to make a copy of the wallpaper
-    available somewhere public, such as on a web page, or in a museum.
+    14. To redistribute the wallpaper means to make a copy of a RTWPL-licensed
+    wallpaper available somewhere public, such as on a web page, or in a museum.
 
 1. USE OF THE WALLPAPER
 
@@ -73,39 +89,39 @@ TERMS AND CONDITIONS
 
     The wallpaper can be copied and redistributed in any form. It can be raster
     graphic or printed on a physical object, such as a piece of paper. When
-    redistributing the original wallpaper to the public, the name of the
-    author(s) and a link to a full copy of this license must be specified.
+    redistributing the original wallpaper to the public, the name of the author
+    and a link to a full copy of this license must be explicitly specified.
 
 4. MODIFIED WALLPAPER
 
-    Modified version of a wallpaper licensed under this license can be trade
+    Modified version of a wallpaper licensed under this license must be either
     secret or licensed under a public license, as described in section 2 above.
     Thus, the terms and conditions applied for the modified wallpaper depend on
     the license that the modified wallpaper is licensed under, so we cannot
     provide the terms and conditions for the modified wallpaper. One exception
-    is, if the modified version is licensed under the RespTech Wallpaper Public
-    License, the terms and conditions of this license take effect, and the terms
-    and conditions for redistributing the (modified) wallpaper are the same as
-    those stated in section 3 of this license.
+    is, if the modified wallpaper is licensed under the RespTech Wallpaper
+    Public License, the terms and conditions of this license take effect, and
+    the terms and conditions for redistributing the (modified) wallpaper are the
+    same as those stated in section 3 of this license.
 
-5. HOW THE WALLPAPER LICENSED UNDER THIS LICENSE MUST BE PROVIDED
+5. HOW A RTWPL-LICENSED WALLPAPER MUST BE PROVIDED
 
-    The wallpaper must be available in the public. Often times, the author(s)
-    put their name(s) as part of the content of the wallpaper (e.g. in the low
-    corner of the wallpaper). Most (if not all) of the time, the name(s) of the
-    author(s) is/are there only for public recognition, and is/are not part of
-    the content of the wallpaper. If the name(s) of the author(s) is/are
-    genuinely there as part of the wallpaper's content, let it/them be,
-    otherwise, when provided to the public, the name(s) must be removed.
+    The wallpaper must be available in the public. Often times, the author
+    put their name as part of the content of the wallpaper (e.g. in the low
+    corner of the wallpaper). Most (if not all) of the time, the name of the
+    author is there only for (public) recognition, and is not part of the
+    content of the wallpaper. If the name of the author is genuinely there as
+    part of the wallpaper's content, let it be, otherwise, when provided to the
+    public, the name must be removed from the content of the wallpaper.
 
 6. SOURCE CODE OF THE WALLPAPER
 
     Wallpapers are usually created using an image editor, but not all wallpapers
-    are created that way. Some people write scripts to generate wallpapers. Some
-    wallpapers are created using an image editor, but uses a file type that
-    actually makes the wallpaper available in some kind of human-readable
-    code (e.g. SVG). Under the effect of the terms and conditions of the
-    RespTech Wallpaper Public License, the source code of the wallpaper
+    are created that way. Some people write scripts that can generate
+    wallpapers. Some wallpapers are created using an image editor, but use a
+    file type that actually makes the wallpaper available in some kind of
+    human-readable code (e.g. SVG). Under the effect of the terms and conditions
+    of the RespTech Wallpaper Public License, the source code of the wallpaper
     (e.g. SVG) or the source code of the script used to generate the wallpaper
     does NOT have to be publicly available, however it is encouraged to make the
     source code available publicly as well so people can easily modify the
@@ -118,21 +134,21 @@ TERMS AND CONDITIONS
 
 8. HOW TO APPLY THIS LICENSE TO YOUR WALLPAPER
 
-    If you wish to use license your wallpaper under the RespTech Wallpaper
-    Public License, chances are your wallpaper is in digital form (e.g. raster
-    graphic image). Hence, you are likely going to provide it on a digital
-    platform. If so, you can do one of the following:
+    If you wish to license your wallpaper under the RespTech Wallpaper Public
+    License, chances are your wallpaper is in digital form (e.g. raster graphic
+    image). Hence, you are likely going to provide it on a digital platform. If
+    so, you can do one of the following:
         - Explicitly point out that the wallpaper is licensed under the RespTech
         Wallpaper Public License, and provide a link to a copy of the license.
         - If you are providing an archive that contains many wallpapers, and at
         least one of them is licensed under the RespTech Wallpaper Public
         License, then put the full license text of this license in a text file,
-        typically called "LICENSE" or "COPYING", and explicitly point out that
-        which wallpaper(s) is/are licensed under this license.
+        typically called "LICENSE" or "COPYING", and explicitly point out which
+        wallpaper(s) is/are licensed under this license.
         - Explicitly point out that the wallpaper is licensed under the RespTech
         Wallpaper Public License, along with the following text snippet:
 
-            Everyone is allowed to use set this wallpaper as wallpaper on any
+            Everyone is allowed to set this wallpaper as wallpaper on any
             device. Modified wallpapers can be created from this wallpaper, as
             long as they are kept secret for private use or are licensed under
             a public license. Redistributing the exact copy of this wallpaper
