@@ -35,5 +35,5 @@ Details
 |:---:|:---:|:---:|:---:|:---:|---|:---:|:---:|
 |1.0|RTWPL-1.0|In review|[Nguyen Hoang Duong][nhd gh]|(expected) [42tm][42tm r]||24 July 2018||
 
-[nhd gh]: http://github.com/NOVAglow
+[nhd gh]: http://github.com/you-create
 [42tm r]: http://github.com/42tm
