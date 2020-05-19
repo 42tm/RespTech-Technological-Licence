@@ -5,7 +5,7 @@ This is the version 1 of the RespTech Wallpaper Public License, written by
 Nguyen Hoang Duong, published as 42tm, 24 July 2018.
 
 You can copy this license, and you can modify it under the condition that you
-must not call your modified version the "RespTech Wallpaper Public License".
+must not claim your modified version the "RespTech Wallpaper Public License".
 
 PREAMBLE
 --------
@@ -71,31 +71,32 @@ wallpaper available somewhere public, such as on a web page, or in a museum.
 ### Use of the wallpaper
 
 The wallpaper is provided free of charge, for anyone to use. Anyone can set
-this wallpaper as wallpaper on any digital device as long as the device
-supports the file type of the wallpaper. The author makes no guarantee that
-the wallpaper can be set as wallpaper on every device. In the event that you
-cannot set the wallpaper as background because your device does not support
-the file type of the provided wallpaper, the best you can do is asking the
-author to make a version with the file type that your digital device
-supports.
+this wallpaper as wallpaper on any digital device. The author makes no
+guarantee that the wallpaper can be set as wallpaper on every device.
+In the event that you cannot set the wallpaper as background because
+your device does not support the file type of the provided wallpaper, the best
+you can do is asking the author to make a version with the file type
+that your digital device supports.
 
 ### Modifying the wallpaper
 
 Everyone is allowed to modify the wallpaper. The modified wallpaper must be
-either kept secret, or licensed under a public copyright license such as
+either kept only for personal usage without any further distribution, or
+licensed under a public copyright license such as
 the RespTech Wallpaper Public License or the CC-compatible licenses.
 
 ### Redistributing the original wallpaper
 
 The wallpaper can be copied and redistributed in any form. It can be raster
-graphic or printed on a physical object, such as a piece of paper. When
+graphic or printed on a physical object, such as a piece of paper. Upon
 redistributing the original wallpaper to the public, the name of the author
 and a link to a full copy of this license must be explicitly specified.
 
 ### Modified wallpaper
 
 Modified version of a wallpaper licensed under this license must be either
-secret or licensed under a public license, as described in section 2 above.
+kept only for personal usage without any further distribution or licensed
+under a public license, as described in section 2 above.
 Thus, the terms and conditions applied for the modified wallpaper depend on
 the license that the modified wallpaper is licensed under, so we cannot
 provide the terms and conditions for the modified wallpaper. One exception
@@ -110,9 +111,9 @@ The wallpaper must be available in the public. Often times, the author
 put their name as part of the content of the wallpaper (e.g. in the low
 corner of the wallpaper). Most (if not all) of the time, the name of the
 author is there only for (public) recognition, and is not part of the
-content of the wallpaper. If the name of the author is genuinely there as
-part of the wallpaper's content, let it be, otherwise, when provided to the
-public, the name must be removed from the content of the wallpaper.
+content of the wallpaper. The author's name can only be included if and only
+if his/her name is part of the content and the name's presence is not for
+any other purpose, including (but not limited to) recognition.
 
 ### Source code of the wallpaper
 
@@ -153,6 +154,6 @@ Everyone is allowed to set this wallpaper as wallpaper on any
 device. Modified wallpapers can be created from this wallpaper, as
 long as they are kept secret for private use or are licensed under
 a public license. Redistributing the exact copy of this wallpaper
-is allowed, as long as the authors' names and a link to this license
-are provided along with the redistribution.
+is allowed, as long as the author's name and a link to this license
+are  provided along with the redistribution.
 ```
